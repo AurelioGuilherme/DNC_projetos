@@ -51,7 +51,7 @@ O projeto seguiu as etapas abaixo:
 
 Abaixo está a visualização dos clusters identificados:
 
-![Clusterização de Custos de Seguro](Machine Learning/Notebooks/clusterizacao_seguros.png)
+![Clusterização de Custos de Seguro](Machine_Learning/Notebooks/clusterizacao_seguros.png)
 
 
 ## Como Reproduzir
